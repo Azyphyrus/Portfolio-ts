@@ -30,14 +30,14 @@ const ProfileImage = () => {
     <div className="grid grid-cols-1 md:grid-cols-9 md:gap-3 h-96 relative z-10">
       <div className="col-span-3 relative hidden md:block">
         <img
-          src="https://cdn-icons-png.flaticon.com/512/6009/6009939.png"
-          className="hidden md:inline-block h-96 mt-12 absolute -mr-8 xl:mr-0 right-0 bottom-0 -mb-12 flex-shrink-0 max-w-none"
+          src="/images/Portprofile.png"
+          className="hidden md:inline-block h-96 mt-12 absolute -mr-8 xl:mr-0 right-0 top-8 -mb-12 flex-shrink-0 max-w-none opacity-70"
           alt="Profile"
         />
       </div>
       <div className="col-span-3 relative block md:hidden">
         <img
-          src="https://cdn-icons-png.flaticon.com/512/6009/6009939.png"
+          src="/images/Portprofile.png"
           className="inline-block h-52 mt-12 absolute ml-auto mr-0 bottom-0 left-0 right-0 mr-auto -mb-32 flex-shrink-0 max-w-none"
           alt="Profile"
         />

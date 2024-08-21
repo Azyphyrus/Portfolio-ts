@@ -9,7 +9,7 @@ const AboutMe = () => {
         <div className="p-4 pb-0">
         <div className={`${cardClasses} text-left`} style={{ backgroundColor: 'rgb(17 24 39)' }}>
             <div className="w-1/3 hidden sm:block">
-                <img src="https://i.pinimg.com/564x/12/c1/85/12c18566c369d7059bf307baed6513f7.jpg" alt="Profile Image" className="rounded-lg" />
+                <img src="/images/Aboutme.png" alt="Profile Image" className="rounded-lg" />
             </div>
             <div className="w-fit px-6 text-white">
                 <h2 className="text-3xl font-bold text-foreground">About Me</h2>
